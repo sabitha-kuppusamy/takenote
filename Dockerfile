@@ -1,5 +1,5 @@
 # Use small Alpine Linux image
-FROM node:21.1-alpine
+FROM node:21.7.0-alpine
 
 # Set environment variables
 ENV PORT=5000
